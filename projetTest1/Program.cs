@@ -16,7 +16,7 @@ namespace projectTest1
             int resultat = Calculatrice.Addition(nombre1, nombre2);
 
             Console.WriteLine("Le résultat de l'addition de " + nombre1 + " et " + nombre2 + " est : " + resultat);
-            Console.WriteLine("Appudfgdfyez une tosdgfsdgsduche pour fermer...");
+            Console.WriteLine("Appuyez une touche pour fermer...");
             Console.ReadKey();
         }
     }
